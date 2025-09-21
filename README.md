@@ -1,19 +1,6 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23469
-Fork on GitHub
-8009
 
-back to edit
 
-copy-markdown
 
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Deerga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
